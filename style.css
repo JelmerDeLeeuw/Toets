@@ -1,0 +1,115 @@
+
+.logo{
+    height: 10%;
+    width: 30%;
+    left:10%;
+}
+
+#login{
+    font-size: 30px;
+    border: 1px solid darkgray; 
+    padding: 10px;
+    background-color: darkgrey;
+    text-decoration: none;
+    color:white;
+}
+
+.login{
+    position: absolute;
+    top:-1%;
+    left:40%;
+    color:white;
+    height: 12%;
+    width: 17%;
+    background-color:#DC0000 ;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: solid white 3px;
+    border-radius: 10px;
+}
+
+.bovenbalk{
+    height: 100px;
+    width: 100%;
+    background-color:#ffff;
+}
+
+
+.onderbalk{
+    position: absolute;
+    bottom:0%;
+    height: 100px;
+    width: 100%;
+    background-color:white;
+}
+
+.copyright{
+    position: absolute;
+    bottom:1%;
+    font-size: 150%;
+    margin-left:43%;
+    color:#DC0000;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+  }
+
+#frm{  
+    border: solid white 3px;  
+    width:25%;  
+    border-radius: 2px;  
+    margin: 120px auto;  
+    background: darkgray;  
+    padding: 50px;
+    border-radius: 10px;  
+}  
+#btn{  
+    color: #fff;  
+    background: lightblue;  
+    padding: 7px;  
+    margin-left: 70%;
+    border-radius: 10px; 
+    transition: .35s;
+}  
+
+.username{
+    color:white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.password{
+    color:white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.logintext{
+    color:white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.password1{
+    position: absolute;
+    left:45%;
+}
+
+.registeren:hover {
+    transform: scale(1.10);
+}
+
+.button:hover {
+    transform: scale(1.10);
+}
+
+#btn:hover {
+    transform: scale(1.10);
+}
+
+.Logo{
+    position: absolute;
+    height: 10%;
+    width: 30%;
+    left:5%;
+    top:2%;
+}
+
+
+
